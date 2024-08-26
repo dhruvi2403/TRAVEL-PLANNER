@@ -1,0 +1,9 @@
+Receipt
+-------------------------------------------------
+Customer Name: Jetshree
+Number of People: 3
+Travel Package: Manali
+Total Amount: ?60000
+Payment Method: Bank Payment
+-------------------------------------------------
+

@@ -1,0 +1,9 @@
+Receipt
+-------------------------------------------------
+Customer Name: MIHIR
+Number of People: 4
+Travel Package: Mumbai
+Total Amount: ?120000
+Payment Method: Credit Card
+-------------------------------------------------
+

@@ -1,0 +1,9 @@
+Receipt
+-------------------------------------------------
+Customer Name: RUPAL
+Number of People: 3
+Travel Package: Mumbai
+Total Amount: ?90000
+Payment Method: Debit Card
+-------------------------------------------------
+
