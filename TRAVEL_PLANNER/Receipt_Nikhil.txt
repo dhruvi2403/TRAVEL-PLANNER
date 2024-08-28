@@ -1,0 +1,9 @@
+Receipt
+-------------------------------------------------
+Customer Name: Nikhil
+Number of People: 2
+Travel Package: Goa
+Total Amount: ?44000
+Payment Method: Credit Card
+-------------------------------------------------
+

@@ -1,0 +1,9 @@
+Receipt
+-------------------------------------------------
+Customer Name: Shaily
+Number of People: 4
+Travel Package: Darjeeling
+Total Amount: ?100000
+Payment Method: Debit Card
+-------------------------------------------------
+
